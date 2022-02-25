@@ -6,11 +6,11 @@ m = int(input("Enter mass of object in kgs :"))
 
 v = int(input("Enter velocity of an object m/s :"))
 
-# Mass-Energy Equivalence, E = mc²
-MEeq = m * ( v ** 2)
-
 # Momentum, p = mv
 momentum = m * v
+
+# Mass-Energy Equivalence, E = mc² (c is velocity)
+MEeq = m * ( v ** 2)
 
 print("Mass-Energy Equivalence :", MEeq)
 print("object momentum is :", momentum)
