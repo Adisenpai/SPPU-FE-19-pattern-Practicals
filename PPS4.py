@@ -1,4 +1,4 @@
-""" To accept student’s five courses marks and compute his/her result. Student is passing if
+""" 4. To accept student’s five courses marks and compute his/her result. Student is passing if
 he/she scores marks equal to and above 40 in each course. If student scores aggregate
 greater than 75%, then the grade is distinction. If aggregate is 60>= and <75 then the
 grade if first division. If aggregate is 50>= and <60, then the grade is second division. If
