@@ -12,5 +12,5 @@ momentum = m * v
 # Mass-Energy Equivalence, E = mc² (c is velocity)
 MEeq = m * ( v ** 2)
 
-print("Mass-Energy Equivalence :", MEeq)
 print("object momentum is :", momentum)
+print("Mass-Energy Equivalence :", MEeq)
