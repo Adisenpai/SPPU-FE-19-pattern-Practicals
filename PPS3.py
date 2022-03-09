@@ -21,8 +21,9 @@ minimum_no = min(list)
 # sum() function to find the addition of all the values in the list.
 sum_list = sum(list)
 
-# defining the average() function to find the average of all the values in the list and calling the sum() function.
-# using len() function to find the total number of elements in the list.
+# Defining the average() function to find the average of all the values in the list.
+# Calling the sum() function.
+# Using len() function to find the total number of elements in the list.
 def average(list):
     return sum_list / len(list)
 
