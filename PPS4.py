@@ -6,6 +6,7 @@ aggregate is 40>= and <50, then the grade is third division. """
 
 per = int(input("enter your per : "))
 
+# Using if-elif-else to satisfy all the given conditions.
 if(per >= 75) :
 
     print("distinction")
