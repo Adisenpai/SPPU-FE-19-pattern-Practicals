@@ -1,0 +1,73 @@
+1.
+To calculate salary of an employee given his basic pay (take as input from user).
+Calculate gross salary of employee. Let HRA be 10 % of basic pay and TA be 5% of
+basic pay. Let employee pay professional tax as 2% of total salary. Calculate net salary
+payable after deductions.
+
+2.
+To accept an object mass in kilograms and velocity in meters per second and display its
+momentum. Momentum is calculated as e=mc2 where m is the mass of the object and c is
+its velocity.
+
+3.
+To accept N numbers from user. Compute and display maximum in list, minimum in list,
+sum and average of numbers.
+
+4.
+To accept student’s five courses marks and compute his/her result. Student is passing if
+he/she scores marks equal to and above 40 in each course. If student scores aggregate
+greater than 75%, then the grade is distinction. If aggregate is 60>= and <75 then the
+grade if first division. If aggregate is 50>= and <60, then the grade is second division. If
+aggregate is 40>= and <50, then the grade is third division.
+
+5.
+To check whether input number is Armstrong number or not. An Armstrong number is an
+integer with three digits such that the sum of the cubes of its digits is equal to the number
+itself. Ex. 371.
+
+6.
+To simulate simple calculator that performs basic tasks such as addition, subtraction,
+multiplication and division with special operations like computing xy
+and x!. 
+
+7.
+To accept the number and Compute a) square root of number, b) Square of number, c)
+Cube of number d) check for prime, d) factorial of number e) prime factors
+
+8. To accept two numbers from user and compute smallest divisor and Greatest Common
+Divisor of these two numbers.
+
+9. To accept a number from user and print digits of number in a reverse order.
+
+10. To input binary number from user and convert it into decimal number.
+
+11. To generate pseudo random numbers.
+
+12. To accept list of N integers and partition list into two sub lists even and odd numbers.
+
+13. To accept the number of terms a finds the sum of sine series.
+
+14. To accept from user the number of Fibonacci numbers to be generated and print
+the Fibonacci series.
+
+15.
+Write a python program that accepts a string from user and perform following string
+operations- i. Calculate length of string ii. String reversal iii. Equality check of two
+strings iii. Check palindrome ii. Check substring
+
+16.
+To copy contents of one file to other. While copying a) all full stops are to be replaced
+with commas b) lower case are to be replaced with upper case c) upper case are to be
+replaced with lower case.
+
+17. To count total characters in file, total words in file, total lines in file and frequency of
+given word in file.
+
+18.
+Create class EMPLOYEE for storing details (Name, Designation, gender, Date of Joining
+and Salary). Define function members to compute a)total number of employees in an
+organization b) count of male and female employee c) Employee with salary more than
+10,000 d) Employee with designation “Asst Manager”
+
+19. Create class STORE to keep track of Products ( Product Code, Name and price). Display
+menu of all products to user. Generate bill as per order.
