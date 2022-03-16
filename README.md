@@ -13,3 +13,6 @@ You can see all the problem statements [here](https://github.com/inamdarketan/SP
 
 
 Happy Learning !!! :smiley:
+
+
+![visitors](https://visitor-badge.deta.dev/badge?page_id=inamdarketan.SPPU-FE-19-pattern-Practicals&left_color=black&right_color=green)
