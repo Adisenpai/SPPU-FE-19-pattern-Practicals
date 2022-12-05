@@ -2,17 +2,12 @@
 Cube of number d) check for prime, d) factorial of number e) prime factors """
 
 a = int(input("Enter the number : "))
-
 square_root = a ** 0.5
-
 square = a ** 2
-
 cube = a ** 3
 
 print('The square root of ', a, "is", square_root, ".")
-
 print('The square of ', a, "is", square, ".")
-
 print('The cube of ', a, "is", cube, ".")
 
 # Logic to check whether a given number is prime or not.
