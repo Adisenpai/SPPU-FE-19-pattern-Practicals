@@ -8,21 +8,12 @@ per = int(input("enter your per : "))
 
 # Using if-elif-else to satisfy all the given conditions.
 if(per >= 75) :
-
     print("distinction")
-
 elif(per >= 60 and per <= 74) :
-
     print('first division')
-
 elif(per >= 50 and per <= 59) :
-
     print("second division")
-
 elif(per >= 40 and per <= 49) :
-
     print("third division")
-
 else:
-
     print("fail")

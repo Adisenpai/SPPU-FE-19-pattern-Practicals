@@ -3,9 +3,7 @@ integer with three digits such that the sum of the cubes of its digits is equal 
 itself. Ex. 371. """
 
 T = int(input("Enter the number : "))
-
 sum = 0
-
 i = T
 
 # Using while loop to perform the desired operations on each digit.
